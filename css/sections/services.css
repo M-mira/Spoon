@@ -1,0 +1,21 @@
+.services {
+    margin-top: 135px;
+}
+.container {
+}
+.services__content {
+}
+.services__main-text {
+    max-width: 507px;
+}
+.services__list {
+    margin-top: 54px;
+    display: flex;
+    justify-content: center;
+}
+.services__item {
+}
+.services__title {
+}
+.service__text {
+}
