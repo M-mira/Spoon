@@ -1,0 +1,33 @@
+.advert {
+    margin-top: 120px;
+}
+
+.advert__container {
+    max-width: 1380px;
+    margin: 0 auto;
+}
+
+.advert__contant {
+    margin-top: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.advert__main-text {
+    max-width: 685px;
+}
+.main-text {
+}
+.link {
+    font-family: var(--fontIBM);
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 164%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #5ab963;
+}
+.advert__link {
+    margin-top: 33px;
+}
