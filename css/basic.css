@@ -63,3 +63,13 @@ ul, ol{
 .btn:hover{
     transform: scale(1.2);
 }
+
+.link {
+    font-family: var(--fontIBM);
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 164%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #5ab963;
+}
